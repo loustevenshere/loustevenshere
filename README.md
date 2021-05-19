@@ -1,6 +1,6 @@
 Hello 👋
 
-I am a former High School Social Studies teacher with a passion for learning how the world and the things in it work. I began teaching myself programming and programming concepts shortly after I graduated from Wesleyan University with a degree in Economics. I have just recently graduated from Lambda School for Web Development and am excited to learn more
+I am a former High School Social Studies teacher with a passion for learning how the world and the things in it work. I began teaching myself programming and programming concepts during my time as an undergraduate at Wesleyan University. I graduated from univerisity with a degree in Economics but my curiosity about software and computer science stuck with me. I have just recently graduated from Lambda School for Web Development and am excited to learn and do more. 
 
 Below is a snapshot of my technical life 📸
 
