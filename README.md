@@ -3,13 +3,13 @@ Hello 👋
 Welcome, This is a snapshot of my technical life 📸
 
 ### Computer Languages I speak 🖥
-Python ![image](https://user-images.githubusercontent.com/41015114/118834914-8c163880-b890-11eb-9a49-8d14ac75cd92.png)
+Python ![image](https://user-images.githubusercontent.com/41015114/118841195-190fc080-b896-11eb-9ea4-0819fb72a7a7.png)
 
-Javascript ![image](https://user-images.githubusercontent.com/41015114/118838527-be756500-b893-11eb-94b2-ba232f9f7bba.png)
+Javascript ![image](https://user-images.githubusercontent.com/41015114/118841058-f4b3e400-b895-11eb-9845-0e10128c1b2c.png)
 
-Java ![image](https://user-images.githubusercontent.com/41015114/118838627-d64ce900-b893-11eb-9442-15c6ffeeeff9.png)
+Java ![Uploading image.png…]()
 
-React ![image](https://user-images.githubusercontent.com/41015114/118838702-e82e8c00-b893-11eb-8000-86757bf1ee4e.png)
+React ![image](https://user-images.githubusercontent.com/41015114/118840906-d0580780-b895-11eb-9dd3-f6a33c119b7b.png)
 
 @HTML5 @CSS3 @BootStrap @Spring  @Spring Boot @Maven @JSON @SQL @POSTGRESQL @GITHUB @GIT 
 
