@@ -24,4 +24,7 @@ Literature📚
 Astronomy 🔭
 Economics 📈
 
+Contact me:
+loustevenshere@gmail.com
+
 
